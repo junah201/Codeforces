@@ -1,3 +1,6 @@
+# A. Spell Check
+# 170184048	Aug/30/2022 23:57UTC+9	junah	A - Spell Check	Python 3	Accepted	46 ms	0 KB
+
 import itertools
 
 nPr = ["".join(i)

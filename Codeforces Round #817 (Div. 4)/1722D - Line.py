@@ -1,3 +1,6 @@
+# D. Line
+# 170234040	Aug/31/2022 00:29UTC+9	junah	D - Line	Python 3	Accepted	623 ms	15900 KB
+
 for _ in [0]*int(input()):
     lenth = int(input())
     string = list(input())

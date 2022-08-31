@@ -1,3 +1,6 @@
+# C. Word Game
+# 170213451	Aug/31/2022 00:12UTC+9	junah	C - Word Game	Python 3	Accepted	217 ms	700 KB
+
 for _ in [0]*int(input()):
     lenth = int(input())
     dicts = {}

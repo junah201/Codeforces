@@ -1,3 +1,6 @@
+# F. L-shapes
+# 170298215	Aug/31/2022 02:01UTC+9	junah	F - L-shapes	PyPy 3-64	Accepted	217 ms	10300 KB
+
 shapes = [
     [[0, 1], [1, 0]],
     [[1, 0], [1, 1]],
@@ -100,7 +103,5 @@ def main():
     for i in [0]*int(input()):
         solve()
 
-
-ㄸ
 
 main()
