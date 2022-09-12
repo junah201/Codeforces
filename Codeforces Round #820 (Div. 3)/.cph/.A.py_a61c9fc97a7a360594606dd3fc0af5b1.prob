@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\3.programming\\0.Github\\Codeforces\\Codeforces Round #820 (Div. 3)\\A.py","tests":[{"id":1662993529963,"input":"3\n1 2 3\n3 1 2\n3 2 1\n","output":"1\n3\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\3.programming\\0.Github\\Codeforces\\Codeforces Round #820 (Div. 3)\\A.py","group":"local","local":true}
